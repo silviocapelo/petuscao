@@ -132,14 +132,12 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                            <input type="submit" value="Guardar" class="btn btn-success btn-block">
+                                              <input type="submit" value="Guardar" class="btn btn-success btn-block">
                             </form>
                         </div>
                     </div>
                 </div>
-
             </div>
-
     </div>
 
 @endsection

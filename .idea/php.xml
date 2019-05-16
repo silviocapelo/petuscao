@@ -85,6 +85,9 @@
       <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
       <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
       <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-dompdf" />
+      <path value="$PROJECT_DIR$/vendor/geekcom/phpjasper-laravel" />
+      <path value="$PROJECT_DIR$/vendor/copam/phpjasper" />
+      <path value="$PROJECT_DIR$/vendor/geekcom/phpjasper" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
